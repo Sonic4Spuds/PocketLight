@@ -1,0 +1,11 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/style_list"
+    android:name="com.callizera.pocketlight.StyleListFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    tools:context=".StyleListActivity"
+    tools:layout="@android:layout/list_content" />
+<!-- From: file:/C:/Users/Sonic4Spuds/AndroidStudioProjects/PocketLightProject/PocketLight/src/main/res/layout/activity_style_list.xml -->

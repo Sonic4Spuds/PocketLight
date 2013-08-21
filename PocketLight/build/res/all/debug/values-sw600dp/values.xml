@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Sonic4Spuds/AndroidStudioProjects/PocketLightProject/PocketLight/src/main/res/values-sw600dp/refs.xml -->
+    <item name="activity_style_list" type="layout">@layout/activity_style_twopane</item>
+
+</resources>
